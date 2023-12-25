@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "In7OmQOT8Rvr0EgyZSSQtqzWHnnOmGq7NvG7Gh3SmjCOxup0+qIw4F0zdT6lbB3PJdHMpukWrQpz9iXQzPbUHA==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\2 Course\\3 semestr\\C# 2023\\Code\\Lab15\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

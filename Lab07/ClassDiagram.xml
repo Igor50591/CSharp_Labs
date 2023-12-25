@@ -1,0 +1,35 @@
+<ClassDiagram>
+  <Class name="CommentAttribute">
+    <Property>System.String Comment</Property>
+    <Property>System.Object TypeId</Property>
+  </Class>
+  <Enum name="eClassificationAnimal" />
+  <Enum name="eFavoriteFood" />
+  <Class name="Cow">
+    <Comment>Comment attribute for class cow</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.enums.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Lion">
+    <Comment>Comment attribute for class lion</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.enums.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Pig">
+    <Comment>Comment attribute for class pig</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.enums.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Animal">
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.enums.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,5 @@
+D:\Study\2 Course\3 semestr\C# 2023\Code\Lab01\Task2Tests\obj\Debug\net6.0\Task2Tests.csproj.AssemblyReference.cache
+D:\Study\2 Course\3 semestr\C# 2023\Code\Lab01\Task2Tests\obj\Debug\net6.0\Task2Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2 Course\3 semestr\C# 2023\Code\Lab01\Task2Tests\obj\Debug\net6.0\Task2Tests.AssemblyInfoInputs.cache
+D:\Study\2 Course\3 semestr\C# 2023\Code\Lab01\Task2Tests\obj\Debug\net6.0\Task2Tests.AssemblyInfo.cs
+D:\Study\2 Course\3 semestr\C# 2023\Code\Lab01\Task2Tests\obj\Debug\net6.0\Task2Tests.csproj.CoreCompileInputs.cache
